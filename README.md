@@ -1,5 +1,7 @@
 # cane
 
+_A simple analytics program_
+
 ## Contributing
 
 1. Fork it ( https://github.com/willamin/cane/fork )
