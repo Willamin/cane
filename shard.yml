@@ -12,6 +12,10 @@ crystal: 0.25.0
 
 license: MIT
 
+dependencies:
+  stout:
+    github: willamin/stout
+
 development_dependencies:
   microtest:
     github: ragmaanir/microtest
